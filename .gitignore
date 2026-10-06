@@ -1,0 +1,15 @@
+# Compiled and build artifacts
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+
+# Environment variables
+.env
+.env.local
+.env.*.localnode_modules/
+.next/
+dist/
+build/
+*.log
